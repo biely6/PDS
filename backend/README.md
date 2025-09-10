@@ -1,1 +1,1 @@
-Cine-Rate backend (POO)\n\nCommands: npm install && npm run dev
+
